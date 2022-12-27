@@ -1,6 +1,6 @@
 
 1.API: api/Courier/GetCourierOffer
-CourrierOfferModelReq:
+//CourrierOfferModelReq:
 { 
   "PackageWidth": "10",
   "PackageHeight": "10",
@@ -9,7 +9,7 @@ CourrierOfferModelReq:
 }
 
 2.API: api/Courier/CreateOffer
-CreateOfferModelReq:
+//CreateOfferModelReq:
 {
   "courierName": "Ship4You",
   "packageWidth": 40.56,
